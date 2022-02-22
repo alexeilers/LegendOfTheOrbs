@@ -178,7 +178,7 @@ namespace myGame
                     break;
 
                     case "left" or "l" :
-                    Console.WriteLine("What the?? The Occulex are getting dark!!");
+                    Console.WriteLine("What the?? THE OCCULEX are getting dark!!");
                     Console.ReadLine();
                     Console.Clear();
                     Console.WriteLine("YOU SLOW DOWN YOUR WALK AND THE OCCULEX ARE ALMOST COMPLETELY BLACK. YOU KNEEL AND START TO DIG WITH YOUR HANDS...");
@@ -264,7 +264,7 @@ namespace myGame
             Console.WriteLine("I can't believe it... I better set up a makeshift camp for the night; I don't think I'll make it back to my tent before dusk...");
             Console.ReadLine();
             Console.Clear();
-            Console.WriteLine("YOU BUILD A COZY SHELTER OF BRANCHES AND LEAVES JUST AS NIGHT FALLS UPON MT. RESTIC...");
+            Console.WriteLine("YOU BUILD A SHELTER OF BRANCHES AND LEAVES JUST AS NIGHT FALLS UPON MT. RESTIC...");
             Console.ReadLine();
             Console.Clear();
             Console.WriteLine("...zzz...");
@@ -1124,7 +1124,7 @@ bool fightFour=false;
                 Console.WriteLine("HE ERUPTS INTO FLAMES!!!");
                 Console.ReadLine();
                 Console.Clear();
-                Console.WriteLine("A BALL OF FLAME FORMS AND BEGINS TO RISE TO THE CENTER OF THE ROOM...");
+                Console.WriteLine("A BALL OF FIRE FORMS AND BEGINS TO RISE TO THE CENTER OF THE ROOM...");
                 Console.ReadLine();
                 Console.Clear();
                 Console.WriteLine("What the...?!");
