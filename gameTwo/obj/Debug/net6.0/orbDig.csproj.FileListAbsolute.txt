@@ -1,0 +1,15 @@
+/Users/alexeilers/Documents/CF127FT/codingFoundations/assignments/gameTwo/gameTwo/bin/Debug/net6.0/orbDig
+/Users/alexeilers/Documents/CF127FT/codingFoundations/assignments/gameTwo/gameTwo/bin/Debug/net6.0/orbDig.deps.json
+/Users/alexeilers/Documents/CF127FT/codingFoundations/assignments/gameTwo/gameTwo/bin/Debug/net6.0/orbDig.runtimeconfig.json
+/Users/alexeilers/Documents/CF127FT/codingFoundations/assignments/gameTwo/gameTwo/bin/Debug/net6.0/orbDig.dll
+/Users/alexeilers/Documents/CF127FT/codingFoundations/assignments/gameTwo/gameTwo/bin/Debug/net6.0/ref/orbDig.dll
+/Users/alexeilers/Documents/CF127FT/codingFoundations/assignments/gameTwo/gameTwo/bin/Debug/net6.0/orbDig.pdb
+/Users/alexeilers/Documents/CF127FT/codingFoundations/assignments/gameTwo/gameTwo/obj/Debug/net6.0/orbDig.csproj.AssemblyReference.cache
+/Users/alexeilers/Documents/CF127FT/codingFoundations/assignments/gameTwo/gameTwo/obj/Debug/net6.0/orbDig.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexeilers/Documents/CF127FT/codingFoundations/assignments/gameTwo/gameTwo/obj/Debug/net6.0/orbDig.AssemblyInfoInputs.cache
+/Users/alexeilers/Documents/CF127FT/codingFoundations/assignments/gameTwo/gameTwo/obj/Debug/net6.0/orbDig.AssemblyInfo.cs
+/Users/alexeilers/Documents/CF127FT/codingFoundations/assignments/gameTwo/gameTwo/obj/Debug/net6.0/orbDig.csproj.CoreCompileInputs.cache
+/Users/alexeilers/Documents/CF127FT/codingFoundations/assignments/gameTwo/gameTwo/obj/Debug/net6.0/orbDig.dll
+/Users/alexeilers/Documents/CF127FT/codingFoundations/assignments/gameTwo/gameTwo/obj/Debug/net6.0/ref/orbDig.dll
+/Users/alexeilers/Documents/CF127FT/codingFoundations/assignments/gameTwo/gameTwo/obj/Debug/net6.0/orbDig.pdb
+/Users/alexeilers/Documents/CF127FT/codingFoundations/assignments/gameTwo/gameTwo/obj/Debug/net6.0/orbDig.genruntimeconfig.cache
