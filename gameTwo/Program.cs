@@ -302,12 +302,12 @@ namespace myGame
             Console.WriteLine("!!!!!!!!!!!");
             Console.ReadLine();
             Console.Clear();
-            Console.WriteLine("THE VILLAN: Yesterday, I followed you up Mt. Restic to Dr. Q's house. I knew that crazy old coot was up to no good for years... and now I know everything.");
+            Console.WriteLine("THE VILLAIN: Yesterday, I followed you up Mt. Restic to Dr. Q's house. I knew that crazy old coot was up to no good for years... and now I know everything.");
             Console.ReadLine();
             Console.Clear();Console.WriteLine("Why didn't you just come in and talk to him like I did?? Why did you go and rob him?");
             Console.ReadLine();
             Console.Clear();
-            Console.Clear();Console.WriteLine("THE VILLAN: Psh, I don't plan on being friends with that goofy old bat. I want what he has, and I want to rule the world!!!");
+            Console.Clear();Console.WriteLine("THE VILLAIN: Psh, I don't plan on being friends with that goofy old bat. I want what he has, and I want to rule the world!!!");
             Console.ReadLine();
             Console.Clear();
             Console.Clear();Console.WriteLine("Everywhere I go, people will bow down before me, KING JAX.");
